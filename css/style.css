@@ -109,10 +109,10 @@ input, select {
   padding: 1rem;
   box-sizing: border-box;
 }
-.btn-wrap {
+#btn-wrap {
   width: 40%;
 }
-.num {
+.btn {
   width: 20%;
   height: 50px;
 }
