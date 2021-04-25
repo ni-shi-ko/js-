@@ -112,7 +112,7 @@ input, select {
 #btn-wrap {
   width: 40%;
 }
-.btn {
+button {
   width: 20%;
   height: 50px;
 }
