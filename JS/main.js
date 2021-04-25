@@ -1,1 +1,7 @@
-const num = document.getElementsByClassName('num');
+const Onbutton = document.getElementById('btn-wrap');
+
+Onbutton.addEventListener('click', () => {
+  
+});
+
+
