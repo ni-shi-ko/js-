@@ -1,7 +1,6 @@
-const Onbutton = document.getElementById('btn-wrap');
+const Onbutton = document.getElementById('seven');
 
 Onbutton.addEventListener('click', () => {
-  
+  alert('7');
 });
-
 
