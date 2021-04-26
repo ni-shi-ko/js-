@@ -14,6 +14,6 @@ buttons.forEach(button => {
 
 
 clear.addEventListener('click', () => {
-  result.innerHTML = "";
+  result.innerHTML = "0";
 });
 
