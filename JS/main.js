@@ -1,6 +1,8 @@
-const Onbutton = document.getElementById('seven');
+const buttons = document.querySelectorAll('.button');
 
-Onbutton.addEventListener('click', () => {
-  alert(Onbutton.value);
-});
+buttons.forEach(buttons => {
+  buttons.addEventListener('click', () => {
+    alert(buttons.value);
+  })
+})
 
