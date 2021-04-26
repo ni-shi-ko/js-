@@ -1,7 +1,10 @@
 const buttons = document.querySelectorAll('.button');
+const result = document.getElementById('result');
+
 
 buttons.forEach(button => {
   button.addEventListener('click', () => {
-    alert(button.value);
+    result.innerHTML = button.value;
+
   })
 })
