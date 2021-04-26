@@ -104,8 +104,10 @@ input, select {
   font-size: 30px;
 }
 #btn p {
+  border: 1px solid #000;
+  text-align: right;
   margin: 20px 0;
-  width: 34%;
+  width: 30%;
   padding: 1rem;
   box-sizing: border-box;
 }
